@@ -13,7 +13,8 @@ Typically e-commerce datasets are proprietary and consequently hard to find amon
 # Topics made
 
 This work covers the main topics:
-- Cleaning the database.
-- Data analysis.
+- Understand the data.
+- Data Cleaning.
+- Data Analysis.
 - Application of time series models.
-- Cluster analysis.
+- Cluster analysis for customers.
